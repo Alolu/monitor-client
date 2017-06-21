@@ -6,5 +6,5 @@
   "private": true,
   "scripts": {
     "postinstall": "npm install express",
-  },
+  }
 }
